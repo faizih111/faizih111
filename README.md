@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Level 1: Intro -->
 
-<!--
-**faizih111/faizih111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Faizan 👋
 
-Here are some ideas to get you started:
+🎯 Computer Engineering Student  
+💡 Future Machine Learning Engineer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🚀 Currently learning **Machine Learning & Data Science**
+- 🛠️ Building projects step-by-step (learning by doing)
+- 💻 Strong interest in:
+  - Machine Learning
+  - Neural Networks
+  - Data Analytics
+- 🔥 Focused on becoming **better every single day**
+
+---
+
+## ⚙️ Tech Stack (Learning & Using)
+
+- 💻 Languages: `Python`, `C++`
+- 📊 Libraries: `NumPy`, `Pandas`, `Matplotlib`
+- 🤖 ML: `Scikit-learn` (learning), `Deep Learning (next)`
+- 🛠 Tools: `Git`, `GitHub`, `Google Colab`
+
+---
+
+## 📌 Current Focus
+
+- 📚 Mastering **Machine Learning Fundamentals**
+- 🧪 Working on **End-to-End Machine Learning Project(Hands-On Machine Learning)**
+- 🧠 Improving problem-solving & thinking like an engineer
+
+---
+
+## 📊 GitHub Stats
+
+![Chaudhry's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizih111&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add later)
+- Portfolio: (add later)
+
+
